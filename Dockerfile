@@ -1,5 +1,5 @@
 ARG VERSION=v7.0.0
-FROM chocobozzz/peertube:${VERSION}-bullseye
+FROM chocobozzz/peertube:${VERSION}-bookworm
 
 
 # install dependencies for vaapi
