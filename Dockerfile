@@ -1,4 +1,4 @@
-ARG VERSION=v7.0.0
+ARG VERSION=v7.1.1
 FROM chocobozzz/peertube:${VERSION}-bookworm
 
 
